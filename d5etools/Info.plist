@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>dndtools</string>
+			</array>
+		</dict>
+		<dict/>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DungeonDropCase.otf</string>
+		<string>MrEavesSmallCaps.otf</string>
+		<string>ZatannaMisdirection.otf</string>
+		<string>Bookinsanity.otf</string>
+		<string>ScalySans.otf</string>
+		<string>DUNGRG.TTF</string>
+	</array>
+</dict>
+</plist>

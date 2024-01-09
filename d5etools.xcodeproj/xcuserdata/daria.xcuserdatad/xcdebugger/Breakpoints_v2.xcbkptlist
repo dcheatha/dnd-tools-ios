@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "437A3B5F-0A60-4EAE-8198-8DDB3C29C860"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2B38D00-4EEF-4F5B-9E00-574736EB22BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Views/BooksView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2B38D00-4EEF-4F5B-9E00-574736EB22BF - 9e7702664077b576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; () in d5etools.BooksView.loadData() -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Views/BooksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "C2B38D00-4EEF-4F5B-9E00-574736EB22BF - 9e7702664077b576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; () in d5etools.BooksView.loadData() -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Views/BooksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "C2B38D00-4EEF-4F5B-9E00-574736EB22BF - 9e7702664077b5b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; () in d5etools.BooksView.loadData() -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Views/BooksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "C2B38D00-4EEF-4F5B-9E00-574736EB22BF - 9e7702664077b5b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; () in d5etools.BooksView.loadData() -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Views/BooksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "449D70EA-7D0D-4D40-A1C5-5C3A278CF443"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Store/BookStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "loadLibrary(of:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F5C36B4-E7C6-4293-84C7-8C54C094D1EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Store/BookStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "refreshLibrary(of:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F5C36B4-E7C6-4293-84C7-8C54C094D1EA - d7b2e93f0b35d4f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "d5etools.BookStore.refreshLibrary(of: d5etools.BookStore.BookType, completion: (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Store/BookStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "0F5C36B4-E7C6-4293-84C7-8C54C094D1EA - d9a4f6fe505fcf7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;d5etools.BooksModel, Swift.Error&gt;) -&gt; () in d5etools.BookStore.refreshLibrary(of: d5etools.BookStore.BookType, completion: (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Store/BookStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "401C43B6-7204-44EB-A1B4-24255D590A99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Store/BookStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "refreshLibrary(of:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "401C43B6-7204-44EB-A1B4-24255D590A99 - d9a4f6fe505fc895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;d5etools.BooksModel, Swift.Error&gt;) -&gt; () in d5etools.BookStore.refreshLibrary(of: d5etools.BookStore.BookType, completion: (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Store/BookStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "401C43B6-7204-44EB-A1B4-24255D590A99 - d9a4f6fe505fc895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;d5etools.BooksModel, Swift.Error&gt;) -&gt; () in d5etools.BookStore.refreshLibrary(of: d5etools.BookStore.BookType, completion: (Swift.Result&lt;Swift.Array&lt;d5etools.BookModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Store/BookStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FDA663D-B506-4C8A-A4F8-DA74B3546EF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Views/MainResolverView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "resolveTaggedView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7913D341-B3FC-4ADA-B775-5DA5CB78A08B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Views/Tagged/MainResolverView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "resolveTaggedView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7913D341-B3FC-4ADA-B775-5DA5CB78A08B - 6e893bf7573db200"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "d5etools.MainResolverView.resolveTaggedView() -&gt; Swift.Optional&lt;d5etools.TaggedViewProtocol&gt;"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Views/Tagged/MainResolverView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "7913D341-B3FC-4ADA-B775-5DA5CB78A08B - 6e893bf7573db223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "d5etools.MainResolverView.resolveTaggedView() -&gt; Swift.Optional&lt;d5etools.TaggedViewProtocol&gt;"
+                  moduleName = "d5etools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daria/Documents/source/d5etools/d5etools/Views/Tagged/MainResolverView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B60497A-B2C9-40F2-B298-2A88BD8A089A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "d5etools/Tagging/TagPreprocessor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
